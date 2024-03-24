@@ -4,5 +4,6 @@ I gained pratical experience in data visualization ,exploratory data analytics a
 I'm particularly interested in opportunities where i can collaborate with diverse teams to solve complex problems and innovate through data - driven solution.
 Excellent verbal and written communication skills, presentation and story telling skills.
 check out my contributions on github(https://github.com/Swarna-2002)connected to my linkedln(https://www.linkedin.com/in/swarna-shanmugasundaram/)
+
 Key skills : MicrosoftExcel,Python,SQL,Tableau, PowerBI
 
